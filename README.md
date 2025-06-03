@@ -15,11 +15,11 @@ Reflect AI is a smart mirror system that displays real-time weather, news, date/
 ---
 
 ### 🖼️ Demo
+![Smart Mirror Screenshot](images/display-showing-date,time,weather,and-AI-response.png)
+
+
 
 [Watch the demo video](https://drive.google.com/file/d/1-1IoBSU_Me0rmJPWWyJdY9lx7j7Qhgse/view?usp=sharing)
-![Smart Mirror Screenshot](images/display-showing-date,time,weather,and-AI-response.png)
-![Smart Mirror Screenshot](images/Query-displayed-on-the-two-way-mirror.png)
-![Smart Mirror Screenshot](images/Gemini-response-on-mirror-display.png)
 
 ---
 
@@ -29,7 +29,7 @@ Reflect AI is a smart mirror system that displays real-time weather, news, date/
 - Voice Processing Libraries : SpeechRecognition, PyAudio
 - APIs: Google Generative AI API Key, OpenWeatherMap API Key
 - Hardware: Raspberry Pi 3B+, USB Microphone, Monitor, Two-Way Mirror
-- 
+ 
 ---
 
 ### ⚙️ Installation
