@@ -12,9 +12,10 @@ if not os.path.exists("api_key.txt"):
     exit()
 
 with open("api_key.txt", "r") as f:
-    api_key = f.read().strip()
+    lines = f.readlines()
+    api_key = lines[0].strip()
+    weather_api_key = lines[1].strip()
 
-weather_api_key = "056b05730d51187c0f6b9ae0556967ed"
 city_name = "Hyderabad"
 api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
 
