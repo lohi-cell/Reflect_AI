@@ -1,0 +1,4 @@
+requests
+SpeechRecognition
+pygame
+pyaudio
