@@ -16,7 +16,11 @@ Reflect AI is a smart mirror system that displays real-time weather, news, date/
 
 ### 🖼️ Demo
 
-[Watch the demo video](https://drive.google.com/file/d/1lNV-2nj58cvUdAogvOfCOGr_H_jpUq6h/view?usp=sharing)
+[Watch the demo video]()
+![Smart Mirror Screenshot](images/display showing date, time, weather, and AI response.png)
+![Smart Mirror Screenshot](images/Query displayed on the two-way mirror.png)
+![Smart Mirror Screenshot](images/Gemini response on mirror display.png)
+
 
 ---
 
